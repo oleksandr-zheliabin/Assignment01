@@ -49,5 +49,17 @@
 
 // STEP 6 - Create a variable. Add a number and a string and display the coerced result in the browser’s console window.
 
-let yourAge = 40
-alert('I am ' + yourAge + ' years old.')
+// let yourAge = 40
+// alert('I am ' + yourAge + ' years old.')
+
+// STEP 7 - Create two variables.
+//          For the first variable, add a Boolean and a string and display the coerced result.
+//          For the second variable, add a number and a Boolean and display the coerced result.
+
+// let firstVariable = false + ' First result'
+// alert(firstVariable)
+
+// let secondVariable = 5 + true
+// alert(secondVariable)
+
+// STEP 8 - 
